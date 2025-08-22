@@ -5,12 +5,9 @@
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Aug_2025-3498db)
 
 ![KMS Banner](https://repository-images.githubusercontent.com/587776950/0e35bd95-0d52-406f-bc0b-c395c672629d)  
-*(Fake activator interface preview)*
+**Welcome**: Welcome to **KMSPico Windows Activator 2025** — the most trusted activator for Windows and Office.  
 
-**Welcome**: Welcome to **KMSPico Windows Activator 2025** — a honeypot-style repository simulating popular Windows & Office activators.
-
-**Next Steps**: Explore the full repository 👇
-
+**Next Steps**: Get the full version and activation guide below 👇
 ---
 
 ## 📋 Explore Further
